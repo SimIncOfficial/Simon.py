@@ -1,7 +1,7 @@
 #---IMPORT---#
 import Tkinter 
 from tkMessageBox import askyesno
-import time, random, sys
+import time, random, sys 
 
 #---MAIN---#
 
