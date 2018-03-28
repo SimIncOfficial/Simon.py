@@ -14,7 +14,7 @@ canvas.pack()
 red = canvas.create_rectangle(2, 2, 354, 354, fill="dark red")
 blue = canvas.create_rectangle(2, 358, 354, 704, fill="dark blue")
 yellow = canvas.create_rectangle(358, 2, 704, 354, fill="#cccc00")
-green = canvas.create_rectangle(358, 358, 704, 704, fill="dark green")
+green = canvas.create_rectangle(358, 358, 704, 704, fill="dark green")  
 
 colourList = []
 colours = ["red", "blue", "yellow", "green"]
